@@ -1,6 +1,10 @@
 # MenuBarMonitor
 
+<img src="docs/images/app-icon.png" width="112" alt="MenuBarMonitor app icon with a mint waveform on a blue background">
+
 MenuBarMonitor is a lightweight macOS menu bar app that shows CPU usage, memory usage, and upload and download rates. It refreshes once a second. Click the menu bar item for a breakdown or to open Activity Monitor.
+
+<img src="docs/images/monitor-menu.png" width="341" alt="Expanded menu showing CPU usage, memory breakdown, and network upload and download rates">
 
 ## Compatibility
 
