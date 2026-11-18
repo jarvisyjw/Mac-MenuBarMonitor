@@ -1,0 +1,6 @@
+.DS_Store
+/.modcache/
+/.module-cache/
+/build/
+/build.zip
+/MenuBarMonitor
